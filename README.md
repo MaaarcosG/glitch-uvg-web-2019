@@ -22,6 +22,17 @@ You can delete or rename the other files.
 `watch.json` - The [watch.json](https://glitch.com/help/restart/) file in this project configures Glitch to use optimal install and restart rules for developing React apps. 
 
 ## Available Scripts
+### `npm install`
+
+To install what is necesarry for execution
+
+### `npm run start`
+
+To execute de project see in: localhost:3000
+
+## `npm run lint`
+
+To execute eslint and see code errors
 
 ### `npm test`
 
