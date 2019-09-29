@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React, { PureComponent } from 'react';
 import './App.css';
 
-export default class Background extends Component {
+export default class Background extends PureComponent {
   render() {
     return (
       <div className="background">{this.props.children}</div>
