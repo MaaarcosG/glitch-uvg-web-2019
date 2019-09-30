@@ -2,8 +2,7 @@
 import React, { PureComponent } from 'react';
 
 export default class DataInfo extends PureComponent {
-  render()
-  {
+  render() {
     return (
       <ol>
         <li>Block advertising trackers.</li>
